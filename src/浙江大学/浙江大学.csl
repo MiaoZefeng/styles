@@ -34,6 +34,11 @@
       </term>
     </terms>
   </locale>
+ <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <macro name="author">
     <choose>
       <if variable="author">
